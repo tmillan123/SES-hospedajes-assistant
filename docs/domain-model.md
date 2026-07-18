@@ -97,7 +97,7 @@ Its lifecycle is:
 
           ↓
 
-XML
+     XML
 
 ## Design Principles
 
