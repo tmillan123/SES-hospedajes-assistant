@@ -1,27 +1,12 @@
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
+# Real reservation data
+private/
+real-data/
+uploads/
 
-# IDE
-.vscode/
-
-# Output
+# Generated files
 output/*
 !output/.gitkeep
 
-# Logs
-*.log
-
-# Local configuration
-.env
-config.local.*
-
-# Personal data
-real-data/
-uploads/
-*.jpg
-*.jpeg
-*.png
-*.pdf
+# Excel files containing personal data
+*.xlsx
+*.xls
