@@ -1,12 +1,6 @@
 # SES-hospedajes-assistant
 A privacy-conscious Python tool for validating guest registration data and generating XML communications compatible with Spain’s SES.Hospedajes platform.
 
-## Overview
-The Spanish **SES.Hospedajes** platform requires tourist accommodation establishments to submit guest registration data in a specific XML format. This project provides a local validation and XML generation layer, allowing accommodation providers to prepare complete and consistent guest information before submitting it through the official portal.
-
-The application is intentionally designed following **privacy-by-design** principles and processes guest information locally.
-
----
 
 ## Overview
 
