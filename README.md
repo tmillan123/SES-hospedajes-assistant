@@ -103,7 +103,8 @@ ses-hospedajes-assistant/
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
-```
+
+---
 
 ## Architecture
 
@@ -128,7 +129,6 @@ src/
        Coordinates the workflow
 
 ---
-
 
 ## Validation
 
