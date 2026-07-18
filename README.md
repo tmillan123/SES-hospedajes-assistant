@@ -12,7 +12,8 @@ A privacy-conscious Python tool for validating guest registration data and gener
 ---
 
 ## Who is this for?
-## Intended audience
+
+The intended audience for this project are: 
 
 - Rural accommodation providers
 - Holiday rental managers
