@@ -7,5 +7,3 @@ from reservation import Reservation
 class Communication:
     reservation: Reservation
     status: str = "Draft"
-
-Again...
