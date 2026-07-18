@@ -63,41 +63,41 @@ and all associated guests.
 
 Its lifecycle is:
 
-Draft
+     Draft
 
-     ↓
+          ↓
 
-Generated
+     Generated
 
-     ↓
+          ↓
 
-Submitted
+     Submitted
 
-     ↓
+          ↓
 
-Cancelled (optional)
+     Cancelled (optional)
 
 ---
 
 ### Relationships
 
-Accommodation
+     Accommodation
       
-      ↓
+          ↓
 
-Reservation
+     Reservation
 
-      ↓
+          ↓
 
-Guest
+     Guest
 
-Reservation
+     Reservation
 
-      ↓
+          ↓
 
-Communication
+     Communication
 
-      ↓
+          ↓
 
 XML
 
