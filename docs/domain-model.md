@@ -82,22 +82,20 @@ Its lifecycle is:
 ### Relationships
 
      Accommodation
-      
-          ↓
-
-     Reservation
-
-          ↓
-
-     Guest
-
-          ↓
-
-     Communication
-
-          ↓
-
-     XML
+      │
+      ▼
+Reservation
+      │
+      ├── Guest
+      ├── Guest
+      ├── Guest
+      └── Guest
+             │
+             ▼
+      Communication
+             │
+             ▼
+             XML
 
 ## Design Principles
 
