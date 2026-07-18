@@ -142,7 +142,7 @@ Examples of validation rules include:
 - Inconsistent guest counts
 - XML structure validation
 
-## Validation failed
+### Validation failed
 
 Guest 4:
 - Missing phone number
