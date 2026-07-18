@@ -37,7 +37,6 @@ A reservation has:
 - Accommodation
 - Guests
 
-
 ---
 
 ### Guest
@@ -55,6 +54,7 @@ A guest has:
 ---
 
 ### Communication
+
 Represents a communication submitted to
 SES.HOSPEDAJES.
 
@@ -64,15 +64,17 @@ and all associated guests.
 Its lifecycle is:
 
 Draft
-↓
+
+     ↓
 
 Generated
 
-↓
+     ↓
 
 Submitted
 
-↓
+     ↓
+
 Cancelled (optional)
 
 ---
@@ -80,18 +82,27 @@ Cancelled (optional)
 ### Relationships
 
 Accommodation
+      
       ↓
+
 Reservation
+
       ↓
+
 Guest
 
 Reservation
+
       ↓
+
 Communication
+
       ↓
+
 XML
 
 ### Design Principles
+
 The application stores business information, not XML.
 XML is generated only when required.
 Validation occurs before XML generation.
