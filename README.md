@@ -118,8 +118,6 @@ Examples of validation rules include:
 Example output:
 
 
----
-
 Validation failed
 
 Guest 4:
