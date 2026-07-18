@@ -155,7 +155,7 @@ Future versions may include:
 ## Project Structure
 
 ```
-ses-hospedajes-xml-generator/
+ses-hospedajes-assistant/
 │
 ├── docs/
 ├── examples/
