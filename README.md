@@ -145,6 +145,11 @@ pytest
 
 ---
 
+## Wy Python?
+
+Python was chosen because of its mature XML libraries, excellent data-processing ecosystem, and suitability for automation tasks involving structured business data.
+
+
 ## Privacy by Design
 
 This project has been designed with privacy as a primary objective.
