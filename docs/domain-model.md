@@ -101,7 +101,7 @@ Communication
 
 XML
 
-### Design Principles
+## Design Principles
 
 The application stores business information, not XML.
 XML is generated only when required.
@@ -110,14 +110,14 @@ Guest data is processed locally.
 Personal data is minimized.
 Temporary files are removed after use.
 
-### Future Enhancements
+## Future Enhancements
 Excel import
 XML validation
 Web interface
 Multiple accommodations
 Automated testing
 
-### Why this matters
+## Why this matters
 Something I learned during my years working with architects is this:
 
 Code changes every week.
