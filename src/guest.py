@@ -10,6 +10,7 @@ class Guest:
     date_of_birth: date
     document_type: str
     document_number: str
+    security_code: str
     nationality: str
 
     second_last_name: Optional[str] = None
