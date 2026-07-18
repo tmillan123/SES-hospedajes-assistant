@@ -120,8 +120,6 @@ Automated testing
 ## Why this matters
 Something I learned during my years working with architects is this:
 
-Code changes every week.
-
-The domain changes very slowly.
+Code changes every week. The domain changes very slowly.
 
 If we get the domain right, everything else becomes much easier.
