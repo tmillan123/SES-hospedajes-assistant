@@ -91,8 +91,6 @@ Its lifecycle is:
 
      Guest
 
-     Reservation
-
           ↓
 
      Communication
