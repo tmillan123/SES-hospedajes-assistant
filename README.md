@@ -88,6 +88,22 @@ Excel Reservation Data
 
 ---
 
+## Project Structure
+
+ses-hospedajes-assistant/
+│
+├── docs/
+├── examples/
+├── output/
+├── src/
+├── templates/
+├── tests/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
+```
 
 ## Architecture
 
@@ -211,24 +227,6 @@ Future versions may include:
 - XML Schema validation
 - Automated testing
 
----
-
-## Project Structure
-
-ses-hospedajes-assistant/
-│
-├── docs/
-├── examples/
-├── output/
-├── src/
-├── templates/
-├── tests/
-│
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
 
 ---
 
