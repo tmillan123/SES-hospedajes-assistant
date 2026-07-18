@@ -1,7 +1,6 @@
 from dataclasses import dataclass, field
 from datetime import date
 from typing import List
-
 from accommodation import Accommodation
 from guest import Guest
 
