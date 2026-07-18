@@ -134,6 +134,14 @@ Guest count mismatch:
 Declared: 14
 Found: 13
 ```
+### 5. Add Running Tests
+
+Later:
+
+```markdown
+## Running tests
+
+pytest
 
 ---
 
