@@ -1,35 +1,29 @@
 from datetime import date
 
-from accommodation import Accommodation
 from guest import Guest
 from reservation import Reservation
 
 
-def main():
-    accommodation = Accommodation(
-        registration_number="ES12345",
-        name="Casa de Campo Alborada",
-        address="Lugo, Spain",
-    )
-
+def main() -> None:
     guest = Guest(
-        first_name="John",
-        last_name="Smith",
-        date_of_birth=date(1980, 5, 12),
-        nationality="GB",
+        first_name="Ana",
+        last_name="García",
+        date_of_birth=date(1985, 4, 12),
+        nationality="ES",
+        document_type="DNI",
+        document_number="12345678Z",
+        phone_number="+34600111222",
+        email="ana.garcia@example.com",
     )
 
     reservation = Reservation(
-        reservation_number="ABC123",
-        check_in=date(2026, 7, 20),
-        check_out=date(2026, 7, 27),
+        reservation_number="TEST-001",
+        check_in=date(2026, 7, 23),
+        check_out=date(2026, 7, 31),
+        guests=[guest],
     )
 
-    reservation.guests.append(guest)
-
-    print(accommodation)
     print(reservation)
-    print(guest)
 
 
 if __name__ == "__main__":
