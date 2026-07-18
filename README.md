@@ -146,7 +146,7 @@ pytest
 ---
 
 
-## Wy Python?
+## Why Python?
 
 Python was chosen because of its mature XML libraries, excellent data-processing ecosystem, and suitability for automation tasks involving structured business data.
 
@@ -166,9 +166,7 @@ Key principles include:
 
 This repository intentionally contains **no personal data**.
 
-
 ---
-
 
 ## Technologies
 
@@ -186,7 +184,6 @@ Future versions may include:
 - Automated testing
 
 ---
-
 
 ## Project Structure
 
@@ -211,18 +208,15 @@ ses-hospedajes-assistant/
 
 ```bash
 python src/main.py examples/sample_reservation.xlsx
-```
 
 Output:
 
-```
 Reservation validated successfully.
 
 Guests processed: 13
 
 XML generated:
 output/guest_communication.xml
-```
 
 ---
 
