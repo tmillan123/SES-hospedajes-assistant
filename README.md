@@ -74,13 +74,12 @@ Excel Reservation Data
           │
           ▼
  Manual Upload to SES.HOSPEDAJES
-```
 
 ---
 
+
 ## Architecture
 
-```
 src/
 │
 ├── excel_reader.py
@@ -100,9 +99,9 @@ src/
 │
 └── main.py
        Coordinates the workflow
-```
 
 ---
+
 
 ## Validation
 
@@ -118,7 +117,9 @@ Examples of validation rules include:
 
 Example output:
 
-```
+
+---
+
 Validation failed
 
 Guest 4:
@@ -143,7 +144,9 @@ Later:
 
 pytest
 
+
 ---
+
 
 ## Wy Python?
 
@@ -165,7 +168,9 @@ Key principles include:
 
 This repository intentionally contains **no personal data**.
 
+
 ---
+
 
 ## Technologies
 
@@ -184,9 +189,9 @@ Future versions may include:
 
 ---
 
+
 ## Project Structure
 
-```
 ses-hospedajes-assistant/
 │
 ├── docs/
