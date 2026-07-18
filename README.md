@@ -62,8 +62,10 @@ pip install -r requirements.txt
 
 ```
 Excel Reservation Data
+          │
           ▼
  Data Validation
+          │
           ▼
  Validation Report
           │
