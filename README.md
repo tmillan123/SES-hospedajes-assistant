@@ -47,6 +47,17 @@ The application is intentionally designed following **privacy-by-design** princi
 
 ---
 
+## Installation
+
+```bash
+git clone https://github.com/tmillan123/SES-hospedajes-assistant.git
+
+cd SES-hospedajes-assistant
+
+pip install -r requirements.txt
+
+---
+
 ## Project Workflow
 
 ```
