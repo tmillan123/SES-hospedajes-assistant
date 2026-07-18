@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Output
+output/*
+!output/.gitkeep
+
+# Logs
+*.log
+
+# Local configuration
+.env
+config.local.*
+
+# Personal data
+real-data/
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.pdf
