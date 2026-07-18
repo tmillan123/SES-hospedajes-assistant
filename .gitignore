@@ -1,8 +1,22 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+.python-version
+.idea/
+
+# Virtual environments
 .venv/
 venv/
+env/
+ENV/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
 
 # IDE
 .vscode/
@@ -21,7 +35,11 @@ config.local.*
 # Personal data
 real-data/
 uploads/
-*.jpg
-*.jpeg
-*.png
-*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+private /
+
+# Private local files
+private/
