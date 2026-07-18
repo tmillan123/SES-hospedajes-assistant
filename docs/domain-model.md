@@ -78,23 +78,17 @@ Cancelled (optional)
 ---
 
 ### Relationships
+
 Accommodation
-      │
-      │ 1
-      │
-      ▼
+      ↓
 Reservation
-      │
-      │ 1..*
-      ▼
+      ↓
 Guest
 
 Reservation
-      │
-      ▼
+      ↓
 Communication
-      │
-      ▼
+      ↓
 XML
 
 ### Design Principles
