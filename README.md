@@ -142,9 +142,7 @@ Later:
 
 pytest
 
-
 ---
-
 
 ## Why Python?
 
