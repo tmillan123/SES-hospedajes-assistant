@@ -17,7 +17,7 @@ The Spanish **SES.HOSPEDAJES** platform requires accommodation providers to subm
 
 While the platform performs validation during submission, it does not provide a draft workflow for progressively preparing reservations. As a result, errors are often discovered only after uploading the XML, leaving accommodation providers to correct them under time pressure, sometimes just before guest check-in.
 
-This project provides a local validation and XML generation layer, allowing accommodation providers to prepare complete and consistent guest information before submitting it through the official portal.
+This project was inspired by the practical challenges faced by rural accommodation providers using the SES.HOSPEDAJES platform. It aims to reduce last-minute validation errors by allowing reservations to be prepared and verified locally before submission.
 
 The application is intentionally designed following **privacy-by-design** principles and processes guest information locally.
 
