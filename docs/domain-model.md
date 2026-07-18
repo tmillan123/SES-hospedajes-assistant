@@ -8,6 +8,8 @@ The application is not an XML generator.
 It is a domain-driven application that models reservations,
 guests and official communications.
 
+---
+
 ## Main Entities
 
 ### Accommodation
@@ -16,7 +18,7 @@ Represents the accommodation establishment.
 
 Examples:
 
-- Casa de Campo Alborada
+- Rural house
 - Hotel
 - Hostel
 - Apartment
@@ -35,7 +37,6 @@ A reservation has:
 - Accommodation
 - Guests
 
-
 ---
 
 ### Guest
@@ -53,6 +54,7 @@ A guest has:
 ---
 
 ### Communication
+
 Represents a communication submitted to
 SES.HOSPEDAJES.
 
@@ -61,41 +63,42 @@ and all associated guests.
 
 Its lifecycle is:
 
-Draft
-↓
+     Draft
 
-Generated
+          ↓
 
-↓
+     Generated
 
-Submitted
+          ↓
 
-↓
-Cancelled (optional)
+     Submitted
+
+          ↓
+
+     Cancelled (optional)
 
 ---
 
 ### Relationships
-Accommodation
-      │
-      │ 1
+
+     Accommodation
       │
       ▼
 Reservation
       │
-      │ 1..*
-      ▼
-Guest
+      ├── Guest
+      ├── Guest
+      ├── Guest
+      └── Guest
+             │
+             ▼
+      Communication
+             │
+             ▼
+             XML
 
-Reservation
-      │
-      ▼
-Communication
-      │
-      ▼
-XML
+## Design Principles
 
-### Design Principles
 The application stores business information, not XML.
 XML is generated only when required.
 Validation occurs before XML generation.
@@ -103,18 +106,16 @@ Guest data is processed locally.
 Personal data is minimized.
 Temporary files are removed after use.
 
-### Future Enhancements
+## Future Enhancements
 Excel import
 XML validation
 Web interface
 Multiple accommodations
 Automated testing
 
-### Why this matters
+## Why this matters
 Something I learned during my years working with architects is this:
 
-Code changes every week.
-
-The domain changes very slowly.
+Code changes every week. The domain changes very slowly.
 
 If we get the domain right, everything else becomes much easier.
