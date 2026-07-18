@@ -11,6 +11,15 @@ A privacy-conscious Python tool for validating guest registration data and gener
 
 ---
 
+## Who is this for?
+## Intended audience
+
+- Rural accommodation providers
+- Holiday rental managers
+- Software developers integrating with SES.HOSPEDAJES
+- Python developers interested in XML automation
+---
+
 ## Overview
 
 The Spanish **SES.HOSPEDAJES** platform requires accommodation providers to submit guest registration data in a specific XML format.
@@ -141,6 +150,25 @@ Later:
 ## Running tests
 
 pytest
+
+---
+
+## Why this project?
+
+Many software projects demonstrate programming skills.
+
+This project demonstrates something different:
+
+- understanding of a regulated business process
+- requirements analysis
+- secure software design
+- privacy-by-design principles
+- domain modelling
+- maintainable architecture
+
+The objective is not simply to generate XML, but to design software that solves a real operational problem faced by accommodation providers while reducing the likelihood of errors during guest registration.
+
+
 
 ---
 
