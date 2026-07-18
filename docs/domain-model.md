@@ -8,6 +8,8 @@ The application is not an XML generator.
 It is a domain-driven application that models reservations,
 guests and official communications.
 
+---
+
 ## Main Entities
 
 ### Accommodation
