@@ -183,8 +183,6 @@ This project demonstrates something different:
 
 The objective is not simply to generate XML, but to design software that solves a real operational problem faced by accommodation providers while reducing the likelihood of errors during guest registration.
 
-
-
 ---
 
 ## Why Python?
@@ -223,7 +221,6 @@ Future versions may include:
 - GitHub Actions
 - XML Schema validation
 - Automated testing
-
 
 ---
 
