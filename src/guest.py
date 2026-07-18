@@ -6,7 +6,7 @@ from typing import Optional
 @dataclass
 class Guest:
     first_name: str
-    last_name: str
+    first_last_name: str
     date_of_birth: date
     document_type: str
     document_number: str
