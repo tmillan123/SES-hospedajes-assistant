@@ -18,7 +18,7 @@ Represents the accommodation establishment.
 
 Examples:
 
-- Casa de Campo Alborada
+- Rural house
 - Hotel
 - Hostel
 - Apartment
