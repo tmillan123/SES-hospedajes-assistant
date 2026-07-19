@@ -50,8 +50,8 @@ The intended audience for this solution are:
 - Holiday rental managers
 - Software developers integrating with SES.HOSPEDAJES
 - Python developers interested in XML automation
----
 
+---
 
 ## Features
 
@@ -106,42 +106,72 @@ Excel Reservation Data
 ## Project Structure
 
 ses-hospedajes-assistant/
+
 │
+
 ├── docs/
+
 ├── examples/
+
 ├── output/
+
 ├── src/
+
 ├── templates/
+
 ├── tests/
-│
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── LICENSE
+
 └── .gitignore
+
 
 ---
 
 ## Architecture
 
 src/
-│
+
+
 ├── excel_reader.py
-│      Reads reservation data
-│
+
+│      
+Reads reservation data
+
 ├── validator.py
-│      Validates business rules
+
+│      
+Validates business rules
+
 │
+
 ├── models.py
-│      Domain objects
+
+│      
+Domain objects
+
 │
+
 ├── xml_generator.py
-│      Generates SES XML
+
+│      
+Generates SES XML
+
 │
+
 ├── config.py
+
 │      Configuration
 │
+
 └── main.py
+
        Coordinates the workflow
+       
 
 ---
 
@@ -171,13 +201,12 @@ Reservation:
 Guest count mismatch:
 Declared: 14
 Found: 13
-```
-### 5. Add Running Tests
+
+### Add Running Tests
 
 Later:
 
-```markdown
-## Running tests
+### Running tests
 
 pytest
 
@@ -198,12 +227,14 @@ This project demonstrates something different:
 
 The objective is not simply to generate XML, but to design software that solves a real operational problem faced by accommodation providers while reducing the likelihood of errors during guest registration.
 
+
 ---
 
 ## Why Python?
 
 Python was chosen because of its mature XML libraries, excellent data-processing ecosystem, and suitability for automation tasks involving structured business data.
 
+---
 
 ## Privacy by Design
 
@@ -242,6 +273,7 @@ Future versions may include:
 ## Example Usage
 
 ```bash
+
 python src/main.py examples/sample_reservation.xlsx
 
 Output:
@@ -252,6 +284,7 @@ Guests processed: 13
 
 XML generated:
 output/guest_communication.xml
+```
 
 ---
 
