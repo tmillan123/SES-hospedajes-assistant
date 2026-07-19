@@ -3,9 +3,9 @@ A privacy-conscious Python tool for validating guest registration data and gener
 
 🚧**Status:** Early development (v0.1)
 
-   Currently implemented:
-    Read reservation data from Excel
-   - Domain modelling
+   ### Currently implemented:
+   ✔ Read reservation data from Excel
+   ✔ Domain modelling
    - XML generation (work in progress)
    - Validation engine (in progress)
 
