@@ -6,14 +6,14 @@ from typing import Optional
 @dataclass
 class Guest:
     first_name: str
-    first_last_name: str
+    first_surname: str
     date_of_birth: date
     document_type: str
     document_number: str
     security_code: str
     nationality: str
+    phone_number:str
+    email: str
+    address: str
 
-    second_last_name: Optional[str] = None
-    phone_number: Optional[str] = None
-    email: Optional[str] = None
-    address: Optional[str] = None
+    second_surname: Optional[str] = None
