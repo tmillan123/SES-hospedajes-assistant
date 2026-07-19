@@ -68,7 +68,7 @@ The intended audience for this solution are:
 
 ## Installation
 
-```bash
+bash
 git clone https://github.com/tmillan123/SES-hospedajes-assistant.git
 
 cd SES-hospedajes-assistant
@@ -79,7 +79,6 @@ pip install -r requirements.txt
 
 ## Project Workflow
 
-```
 Excel Reservation Data
 
           │
