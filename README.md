@@ -30,7 +30,6 @@ This project was inspired by the practical challenges faced by rural accommodati
 The application is intentionally designed following **privacy-by-design** principles and processes guest information locally.
 
 ---
-
 ## Objectives
 
 - Simplify the preparation of guest registration data
