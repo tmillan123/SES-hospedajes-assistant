@@ -42,10 +42,9 @@ The intended audience for this solution are:
 
 
 ## Key Features
+
 ✔ Read reservation data from Excel 
-
-✔ Validate mandatory fields
-
+✔ Validate mandatory field
 ✔ Detect inconsistent guest information
 
 ✔ Generate SES-compatible XML
