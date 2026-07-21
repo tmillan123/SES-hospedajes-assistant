@@ -169,23 +169,6 @@ Later:
 
 pytest
 
-## Design Decisions
-
-Many software projects demonstrate programming skills.
-
-This project demonstrates something different:
-
-- understanding of a regulated business process
-- requirements analysis
-- secure software design
-- privacy-by-design principles
-- domain modelling
-- maintainable architecture
-
-The objective is not simply to generate XML, but to design software that solves a real operational problem faced by accommodation providers while reducing the likelihood of errors during guest registration.
-
-Python was chosen because of its mature XML libraries, excellent data-processing ecosystem, and suitability for automation tasks involving structured business data.
-
 ## Privacy by Design
 
 This project has been designed with privacy as a primary objective.
@@ -216,7 +199,22 @@ Future versions may include:
 - XML Schema validation
 - Automated testing
 
+## Design Decisions
 
+Many software projects demonstrate programming skills.
+
+This project demonstrates something different:
+
+- understanding of a regulated business process
+- requirements analysis
+- secure software design
+- privacy-by-design principles
+- domain modelling
+- maintainable architecture
+
+The objective is not simply to generate XML, but to design software that solves a real operational problem faced by accommodation providers while reducing the likelihood of errors during guest registration.
+
+Python was chosen because of its mature XML libraries, excellent data-processing ecosystem, and suitability for automation tasks involving structured business data.
 
 ## Roadmap
 
