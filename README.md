@@ -17,7 +17,21 @@ A privacy-conscious Python tool for validating guest registration data and gener
 
 🚧 Guest data validation engine
 
+## Table of Contents
 
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Installation](#installation)
+- [Example Usage](#example-usage)
+- [Project Workflow](#project-workflow)
+- [Architecture](#architecture)
+- [Project Structure](#project-structure)
+- [Validation Rules](#validation-rules)
+- [Privacy by Design](#privacy-by-design)
+- [Technology Stack](#technology-stack)
+- [Design Decisions](#design-decisions)
+- [Roadmap](#roadmap)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 
