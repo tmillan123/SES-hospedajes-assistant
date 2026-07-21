@@ -72,7 +72,6 @@ cd SES-hospedajes-assistant
 
 pip install -r requirements.txt
 
----
 
 ## Project Workflow
 
