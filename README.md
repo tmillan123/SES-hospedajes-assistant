@@ -233,8 +233,6 @@ XML generated:
 output/guest_communication.xml
 ```
 
----
-
 ## Roadmap
 
 ### Version 0.1
@@ -263,8 +261,6 @@ output/guest_communication.xml
 - GitHub Actions CI
 - Complete documentation
 
----
-
 ## Disclaimer
 
 This is an independent technical project created for educational and software engineering purposes.
@@ -272,8 +268,6 @@ This is an independent technical project created for educational and software en
 It is **not affiliated with**, endorsed by, or maintained by the Spanish Ministry of the Interior or the SES.HOSPEDAJES platform.
 
 Users remain responsible for reviewing generated communications before submission.
-
----
 
 ## What This Project Demonstrates
 
