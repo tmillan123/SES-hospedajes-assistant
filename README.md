@@ -105,9 +105,8 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-## Project Structure
-
 ```text
+
 ses-hospedajes-assistant/
 │
 ├── docs/
