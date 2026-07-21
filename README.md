@@ -105,6 +105,24 @@ pip install -r requirements.txt
 
 ## Project Structure
 
+## Project Structure
+
+```text
+ses-hospedajes-assistant/
+│
+├── docs/
+├── examples/
+├── output/
+├── src/
+├── templates/
+├── tests/
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
+```
+
+
 ```text
 ses-hospedajes-assistant/
 │
