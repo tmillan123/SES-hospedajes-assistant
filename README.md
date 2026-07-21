@@ -126,19 +126,6 @@ ses-hospedajes-assistant/
 
 ## Project Structure
 
-ses-hospedajes-assistant/
-│
-├── docs/
-├── examples/
-├── output/
-├── src/
-├── templates/
-├── tests/
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
 
 ---
 
