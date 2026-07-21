@@ -62,7 +62,6 @@ The intended audience for this solution are:
 - Process all data locally
 - Use fictional sample data only
 
----
 
 ## Installation
 
