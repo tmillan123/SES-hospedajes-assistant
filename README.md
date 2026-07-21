@@ -95,7 +95,7 @@ pip install -r requirements.txt
           │               │
           │               │
           ▼               ▼
- Validation Report  XML Generator
+ Validation Report   XML Generator
                           │
                           ▼
                 SES XML Document
