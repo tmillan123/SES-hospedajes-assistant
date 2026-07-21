@@ -9,8 +9,8 @@ A privacy-conscious Python tool for validating guest registration data and gener
 
    ### Implemented
 
-- ✔ Read reservation and guest data from Excel
-- ✔ Domain modelling
+✔ Read reservation and guest data from Excel
+✔ Domain modelling
 
    ### In progress
 
