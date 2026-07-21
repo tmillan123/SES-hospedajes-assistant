@@ -103,6 +103,7 @@ pip install -r requirements.txt
                            ▼
             Manual Upload to SES.HOSPEDAJES
 
+
 ## Project Structure
 
 ```text
@@ -122,20 +123,6 @@ ses-hospedajes-assistant/
 ```
 
 
-```text
-ses-hospedajes-assistant/
-│
-├── docs/
-├── examples/
-├── output/
-├── src/
-├── templates/
-├── tests/
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
 
 ## Project Structure
 
