@@ -185,13 +185,9 @@ This project demonstrates something different:
 The objective is not simply to generate XML, but to design software that solves a real operational problem faced by accommodation providers while reducing the likelihood of errors during guest registration.
 
 
----
-
 ## Why Python?
 
 Python was chosen because of its mature XML libraries, excellent data-processing ecosystem, and suitability for automation tasks involving structured business data.
-
----
 
 ## Privacy by Design
 
