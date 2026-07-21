@@ -95,16 +95,16 @@ pip install -r requirements.txt
        │ • Formats             │
        │ • Business rules      │
        └───────────────────────┘
-          │              │
-          │              │
-          ▼              ▼
- Validation Report   XML Generator
-                           │
-                           ▼
-                 SES XML Document
-                           │
-                           ▼
-            Manual Upload to SES.HOSPEDAJES
+          │                 │
+          │                 │
+          ▼                 ▼
+ Validation Report    XML Generator
+                            │
+                            ▼
+                    SES XML Document
+                            │
+                            ▼
+              Manual Upload to SES.HOSPEDAJES
 ---
 
 ## Project Structure
