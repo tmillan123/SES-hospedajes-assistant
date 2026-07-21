@@ -71,8 +71,6 @@ Generated:
 output/guest_communication.xml
 ```
 
-
-
 ## Project Workflow
 
 ```text
@@ -171,7 +169,7 @@ Later:
 
 pytest
 
-## Design Decisions?
+## Design Decisions
 
 Many software projects demonstrate programming skills.
 
