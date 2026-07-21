@@ -5,8 +5,6 @@
 
 A privacy-conscious Python tool for validating guest registration data and generating XML communications compatible with Spain’s SES.Hospedajes platform.
 
-🚧**Status:** Early development (v0.1)
-
 ## Current status
 
    ### Implemented
