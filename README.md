@@ -65,13 +65,18 @@ The intended audience for this solution are:
 
 ## Installation
 
-bash
+### Clone the repository
+
+```bash
 git clone https://github.com/tmillan123/SES-hospedajes-assistant.git
-
 cd SES-hospedajes-assistant
+```
 
+### Install dependencies
+
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Project Workflow
 
