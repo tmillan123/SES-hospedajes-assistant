@@ -39,22 +39,15 @@ The intended audience for this solution are:
 - Software developers integrating with SES.HOSPEDAJES
 - Python developers interested in XML automation
 
-
-
 ## Key Features
 
-✔ Read reservation data from Excel 
-✔ Validate mandatory field
-✔ Detect inconsistent guest information
-
-✔ Generate SES-compatible XML
-
-✔ Produce validation reports
-
-✔ Local processing only
-
-✔ Privacy-by-design
-
+- Read reservation data from Excel
+- Validate mandatory fields
+- Detect inconsistent guest information
+- Generate SES-compatible XML
+- Produce validation reports
+- Process all data locally
+- Follow privacy-by-design principles
 
 ## Installation
 
