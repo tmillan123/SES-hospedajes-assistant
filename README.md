@@ -103,7 +103,6 @@ pip install -r requirements.txt
                             │
                             ▼
               Manual Upload to SES.HOSPEDAJES
----
 
 ## Project Structure
 
