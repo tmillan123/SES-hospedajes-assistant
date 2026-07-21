@@ -167,8 +167,6 @@ Later:
 
 pytest
 
----
-
 ## Why this project?
 
 Many software projects demonstrate programming skills.
