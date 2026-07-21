@@ -14,9 +14,8 @@ A privacy-conscious Python tool for validating guest registration data and gener
 
    ### In progress
 
-🚧 SES XML generation
-
-🚧 Guest data validation engine
+- 🚧 SES XML generation
+- 🚧 Guest data validation engine
 
 ## Table of Contents
 
