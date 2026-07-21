@@ -35,7 +35,7 @@ A privacy-conscious Python tool for validating guest registration data and gener
 
 The Spanish **SES.HOSPEDAJES** platform requires accommodation providers to submit guest registration data in a specific XML format.
 
-While the platform performs validation during submission, it does not provide a draft workflow for progressively preparing reservations. As a result, errors are often discovered only after uploading the XML, leaving accommodation providers to correct them under time pressure, sometimes just before guest check-in.
+Although the platform validates submissions, it does not provide a draft workflow for progressively preparing reservations. As a result, errors are often discovered only after uploading the XML, leaving accommodation providers to correct them under time pressure, sometimes just before guest check-in.
 
 This project was inspired by the practical challenges faced by rural accommodation providers using the SES.HOSPEDAJES platform. It aims to reduce last-minute validation errors by allowing reservations to be prepared and verified locally before submission.
 
