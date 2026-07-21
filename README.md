@@ -30,16 +30,6 @@ This project was inspired by the practical challenges faced by rural accommodati
 The application is intentionally designed following **privacy-by-design** principles and processes guest information locally.
 
 
-## Objectives
-
-- Simplify the preparation of guest registration data
-- Detect errors before submission
-- Generate SES-compatible XML files
-- Reduce manual work and repeated submissions
-- Follow GDPR data minimization principles
-- Provide a clean, maintainable and extensible architecture
-
-
 ## Who is this for?
 
 The intended audience for this solution are: 
@@ -51,16 +41,15 @@ The intended audience for this solution are:
 
 
 
-## Features
+## Key Features
 
-- Read reservation and guest data from Excel
-- Validate mandatory fields before XML generation
-- Detect incomplete or inconsistent guest information
-- Validate reservation dates
-- Generate XML using the official SES structure
-- Produce human-readable validation reports
-- Process all data locally
-- Use fictional sample data only
+✔ Read reservation data from Excel
+✔ Validate mandatory fields
+✔ Detect inconsistent guest information
+✔ Generate SES-compatible XML
+✔ Produce validation reports
+✔ Local processing only
+✔ Privacy-by-design
 
 
 ## Installation
