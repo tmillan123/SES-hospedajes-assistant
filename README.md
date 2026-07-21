@@ -122,11 +122,6 @@ ses-hospedajes-assistant/
 └── .gitignore
 ```
 
-
-
-## Project Structure
-
-
 ---
 
 ## Architecture
