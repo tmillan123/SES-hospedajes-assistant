@@ -39,7 +39,6 @@ The application is intentionally designed following **privacy-by-design** princi
 - Follow GDPR data minimization principles
 - Provide a clean, maintainable and extensible architecture
 
----
 
 ## Who is this for?
 
