@@ -132,8 +132,6 @@ src/
 └── main.py              Application entry point
 ```
 
----
-
 ## Validation
 
 Examples of validation rules include:
