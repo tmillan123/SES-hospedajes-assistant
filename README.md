@@ -202,8 +202,6 @@ Key principles include:
 
 This repository intentionally contains **no personal data**.
 
----
-
 ## Technologies
 
 - Python
@@ -218,8 +216,6 @@ Future versions may include:
 - GitHub Actions
 - XML Schema validation
 - Automated testing
-
----
 
 ## Example Usage
 
