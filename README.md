@@ -131,8 +131,6 @@ ses-hospedajes-assistant/
 └── .gitignore
 
 
----
-
 ## Architecture
 
 src/
