@@ -255,20 +255,3 @@ This is an independent technical project created for educational and software en
 It is **not affiliated with**, endorsed by, or maintained by the Spanish Ministry of the Interior or the SES.HOSPEDAJES platform.
 
 Users remain responsible for reviewing generated communications before submission.
-
-## What This Project Demonstrates
-
-Beyond XML generation, this project showcases:
-
-- Requirements analysis
-- Business process automation
-- Software architecture
-- Secure-by-design thinking
-- Privacy-by-design principles
-- Data validation
-- XML processing
-- Clean Python architecture
-- Technical documentation
-- Testable software design
-
-The focus is not simply generating XML files, but designing a reliable, maintainable solution that improves a real-world regulated workflow while respecting privacy requirements.
