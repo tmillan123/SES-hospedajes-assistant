@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Early%20Development-orange)
 
+
 A privacy-conscious Python tool for validating guest registration data and generating XML communications compatible with Spain’s SES.Hospedajes platform.
 
 ## Current status
@@ -11,6 +12,7 @@ A privacy-conscious Python tool for validating guest registration data and gener
 | -------------------------------------------- | ------------------------------- |
 | ✅ Read reservation and guest data from Excel | 🚧 SES XML generation           |
 | ✅ Domain modelling                           | 🚧 Guest data validation engine |
+
 
 
 ## Table of Contents
