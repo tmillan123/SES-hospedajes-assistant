@@ -1,5 +1,6 @@
 # SES-hospedajes-assistant
 Python | MIT License | Status: Early Development | Last Commit
+
 A privacy-conscious Python tool for validating guest registration data and generating XML communications compatible with Spain’s SES.Hospedajes platform.
 
 🚧**Status:** Early development (v0.1)
