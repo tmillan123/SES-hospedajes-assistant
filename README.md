@@ -220,16 +220,16 @@ Future versions may include:
 ## Example Usage
 
 ```bash
-
 python src/main.py examples/sample_reservation.xlsx
+```
 
-Output:
+Expected output
 
+```text
 Reservation validated successfully.
-
 Guests processed: 13
 
-XML generated:
+Generated:
 output/guest_communication.xml
 ```
 
