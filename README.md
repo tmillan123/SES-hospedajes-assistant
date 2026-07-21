@@ -163,14 +163,6 @@ Guest count mismatch:
 Declared: 14
 Found: 13
 
-### Add Running Tests
-
-Later:
-
-### Running tests
-
-pytest
-
 ## Privacy by Design
 
 This project has been designed with privacy as a primary objective.
