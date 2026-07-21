@@ -30,15 +30,6 @@ This project was inspired by the practical challenges faced by rural accommodati
 The application is intentionally designed following **privacy-by-design** principles and processes guest information locally.
 
 
-## Who is this for?
-
-The intended audience for this solution are: 
-
-- Rural accommodation providers
-- Holiday rental managers
-- Software developers integrating with SES.HOSPEDAJES
-- Python developers interested in XML automation
-
 ## Key Features
 
 - Read reservation data from Excel
