@@ -201,7 +201,7 @@ Key principles include:
 
 This repository intentionally contains **no personal data**.
 
-## Technologies
+## Technology Stack
 
 - Python
 - openpyxl
