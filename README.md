@@ -55,6 +55,24 @@ cd SES-hospedajes-assistant
 pip install -r requirements.txt
 ```
 
+## Example Usage
+
+```bash
+python src/main.py examples/sample_reservation.xlsx
+```
+
+Expected output
+
+```text
+Reservation validated successfully.
+Guests processed: 13
+
+Generated:
+output/guest_communication.xml
+```
+
+
+
 ## Project Workflow
 
 ```text
@@ -87,6 +105,19 @@ pip install -r requirements.txt
 
 ```
 
+## Architecture
+
+```text
+src/
+├── excel_reader.py      Reads reservation data
+├── validator.py         Validates business rules
+├── guest.py             Guest domain model
+├── reservation.py       Reservation domain model
+├── xml_generator.py     Generates SES XML
+└── main.py              Application entry point
+```
+
+
 ## Project Structure
 
 ```text
@@ -104,17 +135,6 @@ ses-hospedajes-assistant/
 └── .gitignore
 ```
 
-## Architecture
-
-```text
-src/
-├── excel_reader.py      Reads reservation data
-├── validator.py         Validates business rules
-├── guest.py             Guest domain model
-├── reservation.py       Reservation domain model
-├── xml_generator.py     Generates SES XML
-└── main.py              Application entry point
-```
 
 ## Validation Rules
 
@@ -151,7 +171,7 @@ Later:
 
 pytest
 
-## Why this project?
+## Design Decisions?
 
 Many software projects demonstrate programming skills.
 
@@ -165,9 +185,6 @@ This project demonstrates something different:
 - maintainable architecture
 
 The objective is not simply to generate XML, but to design software that solves a real operational problem faced by accommodation providers while reducing the likelihood of errors during guest registration.
-
-
-## Why Python?
 
 Python was chosen because of its mature XML libraries, excellent data-processing ecosystem, and suitability for automation tasks involving structured business data.
 
@@ -201,21 +218,7 @@ Future versions may include:
 - XML Schema validation
 - Automated testing
 
-## Example Usage
 
-```bash
-python src/main.py examples/sample_reservation.xlsx
-```
-
-Expected output
-
-```text
-Reservation validated successfully.
-Guests processed: 13
-
-Generated:
-output/guest_communication.xml
-```
 
 ## Roadmap
 
