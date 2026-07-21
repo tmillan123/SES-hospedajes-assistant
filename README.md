@@ -103,18 +103,6 @@ output/guest_communication.xml
 
 ```
 
-## Architecture
-
-```text
-src/
-├── excel_reader.py      Reads reservation data
-├── validator.py         Validates business rules
-├── guest.py             Guest domain model
-├── reservation.py       Reservation domain model
-├── xml_generator.py     Generates SES XML
-└── main.py              Application entry point
-```
-
 
 ## Project Structure
 
@@ -132,6 +120,20 @@ ses-hospedajes-assistant/
 ├── LICENSE
 └── .gitignore
 ```
+
+
+## Core Components
+
+```text
+src/
+├── excel_reader.py      Reads reservation data
+├── validator.py         Validates business rules
+├── guest.py             Guest domain model
+├── reservation.py       Reservation domain model
+├── xml_generator.py     Generates SES XML
+└── main.py              Application entry point
+```
+
 
 
 ## Validation Rules
