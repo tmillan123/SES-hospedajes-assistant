@@ -108,28 +108,18 @@ pip install -r requirements.txt
 ## Project Structure
 
 ses-hospedajes-assistant/
-
 │
-
 ├── docs/
-
 ├── examples/
-
 ├── output/
-
 ├── src/
-
 ├── templates/
-
 ├── tests/
-
 ├── README.md
-
 ├── requirements.txt
-
 ├── LICENSE
-
 └── .gitignore
+```
 
 
 ## Architecture
