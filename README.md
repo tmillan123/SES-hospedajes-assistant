@@ -122,44 +122,15 @@ ses-hospedajes-assistant/
 
 ## Architecture
 
+```text
 src/
-
-
-├── excel_reader.py
-
-│      
-Reads reservation data
-
-├── validator.py
-
-│      
-Validates business rules
-
-│
-
-├── models.py
-
-│      
-Domain objects
-
-│
-
-├── xml_generator.py
-
-│      
-Generates SES XML
-
-│
-
-├── config.py
-
-│      Configuration
-│
-
-└── main.py
-
-       Coordinates the workflow
-       
+├── excel_reader.py      Reads reservation data
+├── validator.py         Validates business rules
+├── guest.py             Guest domain model
+├── reservation.py       Reservation domain model
+├── xml_generator.py     Generates SES XML
+└── main.py              Application entry point
+```
 
 ---
 
