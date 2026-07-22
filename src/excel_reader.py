@@ -1,9 +1,7 @@
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any
-
 from openpyxl import load_workbook
-
 from guest import Guest
 from reservation import Reservation
 
