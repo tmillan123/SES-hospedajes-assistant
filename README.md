@@ -87,20 +87,7 @@ output/guest_communication.xml
 
 
 
-
-
-
-
-
-
-
-[Project Workflow](docs/Project%20Workflow.drawio)
-
-
-
-
-
-
+![Project Workflow](docs/project-workflow.svg)
 
 
 
