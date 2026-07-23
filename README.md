@@ -43,7 +43,7 @@ The application is intentionally designed following **privacy-by-design** princi
 
 ### Example execution
 
-```console
+```
 $ python src/main.py
 
 Reading reservation data...
@@ -52,6 +52,7 @@ Reading reservation data...
 
 Output:
 output/reservation.xml
+
 ```
 
 
