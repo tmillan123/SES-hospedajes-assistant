@@ -85,35 +85,7 @@ output/guest_communication.xml
 
 ## Project Workflow
 
-```text
-                User
-                  │
-                  ▼
-        Excel Reservation File
-                  │
-                  ▼
-       ┌───────────────────────┐
-       │ Excel Reader          │
-       └───────────────────────┘
-                  │
-                  ▼
-       ┌───────────────────────┐
-       │ Data Validator        │
-       │ • Mandatory fields    │
-       │ • Formats             │
-       │ • Business rules      │
-       └───────────────────────┘
-          │              │
-          ▼              ▼
- Validation Report   XML Generator
-                           │
-                           ▼
-                 SES XML Document
-                           │
-                           ▼
-            Manual Upload to SES.HOSPEDAJES
-
-```
+![Project Structure](docs/project-structure.png)
 
 
 ## Project Structure
