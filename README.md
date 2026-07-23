@@ -41,14 +41,15 @@ This project was inspired by the practical challenges faced by rural accommodati
 
 The application is intentionally designed following **privacy-by-design** principles and processes guest information locally.
 
+### Example execution
+
+```console
 $ python src/main.py
 
 Reading reservation data...
 ✓ Validation successful
 ✓ XML generated successfully
 
-Output:
-output/reservation.xml
 
 
 ## Key Features
