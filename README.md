@@ -87,12 +87,20 @@ output/guest_communication.xml
 
 ![Project Workflow](docs/Project%20Workflow.drawio.svg)
 
-
-
 ## Project Structure
 
-![Project Workflow](docs/project-workflow.svg)
-
+```text
+ses-hospedajes-assistant/
+├── docs/                  # Documentation and diagrams
+├── examples/              # Sample reservation spreadsheets
+├── output/                # Generated XML files
+├── src/                   # Application source code
+├── templates/             # XML templates
+├── tests/                 # Unit tests
+├── README.md
+├── requirements.txt
+└── LICENSE
+```
 
 ## Core Components
 
