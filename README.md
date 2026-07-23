@@ -44,14 +44,16 @@ The application is intentionally designed following **privacy-by-design** princi
 ### Example execution
 
 ```
-$ python src/main.py
-
-Reading reservation data...
-✓ Validation successful
-✓ XML generated successfully
-
-Output:
-output/reservation.xml
+┌──────────────────────────────────────────────┐
+│ $ python src/main.py                         │
+│                                              │
+│ Reading reservation data...                  │
+│ ✓ Validation successful                      │
+│ ✓ XML generated successfully                 │
+│                                              │
+│ Output:                                      │
+│ output/reservation.xml                       │
+└──────────────────────────────────────────────┘
 
 ```
 
