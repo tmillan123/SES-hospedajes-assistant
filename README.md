@@ -85,8 +85,9 @@ output/guest_communication.xml
 
 ## Project Workflow
 
-![Project Structure](docs/project-structure.png)
-
+<p align="center">
+  <img src="docs/project-workflow.svg" width="900">
+</p>
 
 ## Project Structure
 
