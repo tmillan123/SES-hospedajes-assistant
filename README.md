@@ -85,11 +85,7 @@ output/guest_communication.xml
 
 ## Project Workflow
 
-
-
 ![Project Workflow](docs/project-workflow.svg)
-
-
 
 
 
