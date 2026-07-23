@@ -85,7 +85,7 @@ output/guest_communication.xml
 
 ## Project Workflow
 
-![Project Workflow](docs/project-workflow.svg)
+![Project Workflow](docs/Project%20Workflow.drawio.svg)
 
 
 
@@ -105,8 +105,6 @@ src/
 ├── xml_generator.py     Generates SES XML
 └── main.py              Application entry point
 ```
-
-
 
 ## Validation Rules
 
