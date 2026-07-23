@@ -85,7 +85,26 @@ output/guest_communication.xml
 
 ## Project Workflow
 
+
+
+
+
+
+
+
+
+
 [Project Workflow](docs/Project%20Workflow.drawio)
+
+
+
+
+
+
+
+
+
+
 
 ## Project Structure
 
