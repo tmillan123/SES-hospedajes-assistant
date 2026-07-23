@@ -50,6 +50,9 @@ Reading reservation data...
 ✓ Validation successful
 ✓ XML generated successfully
 
+Output:
+output/reservation.xml
+```
 
 
 ## Key Features
