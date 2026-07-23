@@ -90,20 +90,7 @@ output/guest_communication.xml
 
 ## Project Structure
 
-```text
-ses-hospedajes-assistant/
-│
-├── docs/
-├── examples/
-├── output/
-├── src/
-├── templates/
-├── tests/
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
+![Project Workflow](docs/project-workflow.svg)
 
 
 ## Core Components
