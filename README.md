@@ -232,6 +232,7 @@ Python was chosen because of its mature XML libraries, excellent data-processing
 - GitHub Actions CI
 - Complete documentation
 
+
 ## Author
 
 **Teresa Millán Fernández**
@@ -239,6 +240,7 @@ Python was chosen because of its mature XML libraries, excellent data-processing
 Cloud Security Architect | AI Security | Cloud, Data & Cybersecurity
 
 https://www.linkedin.com/in/teresamillanfernandez/
+
 
 ## Disclaimer
 
