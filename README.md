@@ -29,6 +29,7 @@ A privacy-conscious Python tool for validating guest registration data and gener
 - [Technology Stack](#technology-stack)
 - [Design Decisions](#design-decisions)
 - [Roadmap](#roadmap)
+- [Author](#author)
 - [Disclaimer](#disclaimer)
 
 ## Overview
