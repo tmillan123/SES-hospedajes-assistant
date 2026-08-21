@@ -237,7 +237,7 @@ Python was chosen because of its mature XML libraries, excellent data-processing
 
 Cloud Security Architect | AI Security | Cloud, Data & Cybersecurity
 
-[LinkedIn]([https://www.linkedin.com/in/teresamillanfernandez/)
+[LinkedIn Profile](https://www.linkedin.com/in/teresamillanfernandez/)
 
 ## Disclaimer
 
